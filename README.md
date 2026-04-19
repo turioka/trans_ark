@@ -2,7 +2,11 @@
 
 Windows APIやOpenGLで透明なウィンドウを使ってアルカノイドのようなゲームを作りました。
 
-実行の様子はsample.mp4にあります。
+実行の様子です。
+
+https://github.com/user-attachments/assets/cc00f55f-f949-43f8-ad6c-9cc5417110a1
+
+
 
 ## 参考にしたコード
 
